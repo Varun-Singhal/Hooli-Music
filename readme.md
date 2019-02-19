@@ -27,7 +27,7 @@ If you wish to run the application, you need to configure the database as per wr
 The API keys used were enabled for trail version. You need to re-issue the API keys for smooth running.
 
 ```
-$python hooli.py 
+$ python hooli.py 
 ```
 
 ### Screenshots
