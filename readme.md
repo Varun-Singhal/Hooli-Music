@@ -11,3 +11,10 @@ Following is the list of third-party APIs for functioning of the software:
 	* Youtube : Music Videos
 	* Mailgun : Email API for sending confirmation & password recovery support
 
+### Screenshots
+
+![Start](https://github.com/Varun-Singhal/Hooli-Music/blob/master/screenshots/1.png)
+
+![Home](https://github.com/Varun-Singhal/Hooli-Music/blob/master/screenshots/2.png)
+
+![Sign-Up](https://github.com/Varun-Singhal/Hooli-Music/blob/master/screenshots/3.png)
